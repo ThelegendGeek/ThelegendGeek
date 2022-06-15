@@ -4,7 +4,7 @@
 <img align = "left" alt = "coding" width = "400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelegendgeek&label=Profile%20views&color=0e75b6&style=flat" alt="thelegendgeek" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegendgeek" alt="thelegendgeek" /></a> </p>
 
