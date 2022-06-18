@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **I am a swiftie**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6m87abd4cbyyuwv44kl38zawv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@devanshirathor8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devanshirathor8" height="30" width="40" /></a>
