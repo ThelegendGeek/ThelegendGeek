@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Devanshi Rathore</h1>
 <h3 align="center">A developer in C, C++, C# and Python (also a full stack web developer)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelegendgeek&label=Profile%20views&color=0e75b6&style=flat" alt="thelegendgeek" /> </p>
+<img align = "left" alt = "Coding" width = "400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegendgeek" alt="thelegendgeek" /></a> </p>
 
