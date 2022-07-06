@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am a swiftie**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6m87abd4cbyyuwv44kl38zawv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6m87abd4cbyyuwv44kl38zawv&cover_image=true&theme=default)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
