@@ -15,15 +15,15 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📝 I regularly write articles on [https://www.tumblr.com/blog/superblogs7](https://www.tumblr.com/blog/superblogs7)
+- 📝 I regularly write articles on [https://devanshi.hashnode.dev/](https://devanshi.hashnode.dev/)
 
 - 💬 Ask me about **C++, C#, C, Python and anything related to full stack web development.**
 
 - 📫 How to reach me **devanshirathore09@gmail.com**
 
-- ⚡ Fun fact **I am a swiftie**
+- ⚡ Fun fact **I am a Linux enthusiast**
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6m87abd4cbyyuwv44kl38zawv&cover_image=true&theme=default)              
+              
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
