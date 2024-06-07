@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegendgeek" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshidev7" alt="" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@devanshicoder" target="blank"><img src="https://img.shields.io/twitter/follow/@devanshidev7?logo=twitter&style=for-the-badge" alt="@devanshidev7"/></a></p>
 
